@@ -7,7 +7,7 @@
 .main-login {
     width: 100vw;
     height: 100vh;
-    background-color: #16104e;
+    background-color: #180933;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,7 +22,7 @@ align-items: center;
 flex-direction: column;
 }
 .left-login > h1  {
-    color: #0c336e;
+    color: #adbacc;
 }
  
 .right-login {
@@ -41,10 +41,10 @@ flex-direction: column;
     padding: 30px 35px;
     background: #2f2841 ;
      border-radius: 20px;
-     box-shadow: 0px 10px 40px #00000056;
+     box-shadow: 0px 10px 40px #672e8d56;
 }
 .card-login > h1  {
-    color: #3a22c2;
+    color: #bbaaee;
      font-weight: 800;
      margin: 0;
  
@@ -55,6 +55,8 @@ flex-direction: column;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
+    color: white;
+    bottom: 10px;
  
 }
 .textfield > input {
@@ -66,7 +68,7 @@ flex-direction: column;
     background-color: #502b94;
     color: #f0ffffde;
     font-size: 12pt;
-    box-shadow: 0px 10px 40px #00000056;
+    box-shadow: 0px 10px 40px #5a525e56;
     outline: none;
     box-sizing: border-box;
 }
@@ -85,11 +87,17 @@ flex-direction: column;
     border-radius: 8px;
     outline: none;
     text-transform: uppercase;
-    font-weight: 800;
+    font-weight: 600;
     letter-spacing: 3px;
     color: #f3f0f5;
     background: #a45dd3;
     cursor: pointer;
     box-shadow: 0px 10px 40px -12px #a38de7;
 }
- 
+h1{
+   color: whitesmoke;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 170%;
+   position: relative;
+   bottom: 15px;
+}
