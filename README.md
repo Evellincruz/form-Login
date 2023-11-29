@@ -12,6 +12,7 @@ Este trabalho foi prposto por leonardo da diciplina de fundamentos web, no qual 
 * CSS3 
 * GIT
 * GITHUB
+* BOOTSTRAP
 
 
 ### RESULTADO DO TRABALHO
